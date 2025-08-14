@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999184171602",
+    "project_id": "loveydovey-c5644",
+    "storage_bucket": "loveydovey-c5644.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999184171602:android:a93d4d6644bade5498958b",
+        "android_client_info": {
+          "package_name": "com.example.lovey_dovey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1_QTcvyrbtrz-gH2yATDejsSxq3BcB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
