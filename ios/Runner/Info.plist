@@ -42,6 +42,12 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<key>NSNearbyInteractionUsageDescription</key>
+	<string>This app uses Nearby Interaction to measure the distance to your partner's device for the LoveyDovey game.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_lovey-dovey._tcp</string>
+	</array>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
